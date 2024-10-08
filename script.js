@@ -20,7 +20,7 @@ var sketchProc = function(p) {
     var level = 1;
 
     //TEST CODE
-    level = 4;
+    //level = 4;
 
 //---------Define Variables---------\\
 var player, playing, strret, enemy;
